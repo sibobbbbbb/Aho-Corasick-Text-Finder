@@ -1,0 +1,4 @@
+{
+    "text": "Dart adalah bahasa pemrograman yang dikembangkan oleh Google, dirancang untuk pengembangan aplikasi front-end yang cepat dan efisien. Dart sering digunakan bersama dengan framework Flutter untuk membangun aplikasi mobile yang cross-platform. Bahasa ini mendukung pemrograman berorientasi objek dan memiliki sintaks yang mirip dengan bahasa pemrograman populer lainnya seperti JavaScript dan Java. Dart juga menawarkan fitur seperti hot reload, yang memungkinkan pengembang untuk melihat perubahan kode secara instan tanpa harus memulai ulang aplikasi.",
+    "patterns": ["adalah", "oleh", "untuk", "yang"]
+}
